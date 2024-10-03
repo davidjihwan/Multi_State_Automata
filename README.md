@@ -9,7 +9,7 @@ The code is written in the Arduino IDE, so other Arduino-compatible devices may 
 ## Media
 The final product looks something like this: 
 ![Gif of an ESP32 running the multi-state automata simulation](Media/GOL_GIF1.gif)
-
+<br/> 
 ![Another gif of an ESP32 running the multi-state automata simulation](Media/GOL_GIF2.gif)
 
 ## Materials
