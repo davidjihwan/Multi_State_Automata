@@ -2,9 +2,9 @@
 ![Image of an ESP32 running the multi-state automata simulation](Media/GOL_IMG2.png)
 
 ## Summary
-This is an implementation of a multi-state automata for the LILYGO ESP32 T-Display. There are three states in this implementation. Each state has a unique color, as well as state that it is weak against. The world consists of cells that correspond to a state. If a cell is surrounded by x (where x is some set threshold) or more cells that it is weak against, it will take on that state. 
+This is an implementation of a multi-state automata for the LILYGO ESP32 T-Display. There are three states in this implementation. Each state has a unique color, as well as a state that it is weak against. The world consists of cells that correspond to a state. If a cell is surrounded by x (where x is some set threshold) or more cells that it is weak against, it will take on that state. 
 
-The code is written in the Arduino IDE, so other Arduino-compatible devices may be able to run the code with some basic modifications. Many thanks to [Erik Fransson](https://www.youtube.com/watch?v=TvZI6Xc0J1Y&t=76s) for inspiration. I also go into more detail about the decision decisions behind the project on [my website](TODO).
+The code is written in the Arduino IDE, so other Arduino-compatible devices may be able to run the code with some basic modifications. Many thanks to [Erik Fransson](https://www.youtube.com/watch?v=TvZI6Xc0J1Y&t=76s) for inspiration. I also go into more detail about the decision decisions behind the project on [my website](https://davidjihwan.com/Multi-State-Automata).
 
 ## Media
 The final product looks something like this: 
