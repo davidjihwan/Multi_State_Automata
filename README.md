@@ -9,9 +9,9 @@ The code is written in the Arduino IDE, so other Arduino-compatible devices may 
 The final product looks something like this: TODO!!
 
 ## Materials
-[Arduino IDE](https://www.arduino.cc/en/software)
-[LILYGO ESP32 T-Display](https://www.lilygo.cc/products/lilygo%C2%AE-ttgo-t-display-1-14-inch-lcd-esp32-control-board?srsltid=AfmBOordft8S6UaQt1WnySrXgbTSEONV1JsxoCGzCaYUcaJFkpL_2dnz)
-USB-C cable
+- [Arduino IDE](https://www.arduino.cc/en/software)
+- [LILYGO ESP32 T-Display](https://www.lilygo.cc/products/lilygo%C2%AE-ttgo-t-display-1-14-inch-lcd-esp32-control-board?srsltid=AfmBOordft8S6UaQt1WnySrXgbTSEONV1JsxoCGzCaYUcaJFkpL_2dnz)
+- USB-C cable
 
 ## Quick Start Guide
 1. Download the [Arduino IDE](https://www.arduino.cc/en/software) on your computer of choice.
