@@ -1,5 +1,5 @@
 # Multi State Automata
-![Image of an ESP32 running the multi-state automata simulation](https://github.com/davidjihwan/Multi_State_Automata/blob/main/Media/GOL_IMG2.pdf)
+![Image of an ESP32 running the multi-state automata simulation](https://github.com/davidjihwan/Multi_State_Automata/blob/main/Media/GOL_IMG2.HEIC)
 
 ## Summary
 This is an implementation of a multi-state automata for the LILYGO ESP32 T-Display. There are three states in this implementation. Each state has a unique color, as well as state that it is weak against. The world consists of cells that correspond to a state. If a cell is surrounded by x (where x is some set threshold) or more cells that it is weak against, it will take on that state. 
